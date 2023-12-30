@@ -56,18 +56,6 @@
 
 <br />
 
-### :gear: Installation
-
-Install my-project with npm
-
-```bash
-npx create-react-app@latest my-project 
-```
-
-```
-cd my-project
-```
-
 Install dependencies
 
 ### :test_tube: Install Tailwind CSS 
