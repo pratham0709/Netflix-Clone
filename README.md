@@ -61,7 +61,7 @@
 Install my-project with npm
 
 ```bash
-npx create-next-app@latest my-project --typescript
+npx create-react-app@latest my-project 
 ```
 
 ```
